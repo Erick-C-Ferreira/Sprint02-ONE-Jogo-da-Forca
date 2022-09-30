@@ -1,1 +1,1 @@
-# Sprint02-ONE-Jogo-da-Forca-
+# Sprint02-ONE-Jogo-da-Forca
